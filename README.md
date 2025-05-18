@@ -31,7 +31,7 @@ Signup
 ![Screenshot 2025-05-18 195717](https://github.com/user-attachments/assets/9fa4f3b6-4bb2-4917-a862-58ac61bf87ed)
 
 login
-![image](https://github.com/user-attachments/assets/1a74a6ab-71ca-4b3d-91ec-848532a8674c)
+![image](https://github.com/user-attachments/assets/cbdf78b8-8320-40c3-96db-e8d61bb47902)
 
 Future Improvements
 Add forgot/reset password
