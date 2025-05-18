@@ -46,8 +46,7 @@ Deploy to Vercel/Render + ClearDB
 ##
  Contact
  ##
-Built with ❤️ by [Tushar Raut]
-##
-GitHub: @tusharR0
+-Built with ❤️ by [Tushar Raut]
+-GitHub: @tusharR0
 
 
