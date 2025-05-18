@@ -32,9 +32,10 @@ Use Live Server or any local server to open index.html (don’t just double-clic
 Signup
 ![Screenshot 2025-05-18 195717](https://github.com/user-attachments/assets/9fa4f3b6-4bb2-4917-a862-58ac61bf87ed)
 
-login![image](https://github.com/user-attachments/assets/a9a7bb2b-d8fc-4e94-8c80-c13f041820fe)
+login
+![image](https://github.com/user-attachments/assets/a9a7bb2b-d8fc-4e94-8c80-c13f041820fe)
 
-
+##
 Future Improvements
 Add forgot/reset password
 
