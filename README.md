@@ -23,6 +23,7 @@ A simple full-stack user authentication system built with **Node.js**, **Express
 - **Frontend**: HTML, CSS, Vanilla JS
 - **Other**: dotenv, nodemon, cors
 ##
+**Run The server**
 npm run dev
 ##
 Open the Frontend
