@@ -26,13 +26,14 @@ A simple full-stack user authentication system built with **Node.js**, **Express
 **Run The server**
 -npm run dev
 ##
-Open the Frontend
+Web Page Running
+-Open the Frontend
 Use Live Server or any local server to open index.html (don’t just double-click it!).
 Signup
 ![Screenshot 2025-05-18 195717](https://github.com/user-attachments/assets/9fa4f3b6-4bb2-4917-a862-58ac61bf87ed)
 
-login
-![image](https://github.com/user-attachments/assets/cbdf78b8-8320-40c3-96db-e8d61bb47902)
+login![image](https://github.com/user-attachments/assets/a9a7bb2b-d8fc-4e94-8c80-c13f041820fe)
+
 
 Future Improvements
 Add forgot/reset password
