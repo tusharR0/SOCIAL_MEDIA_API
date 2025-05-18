@@ -24,7 +24,7 @@ A simple full-stack user authentication system built with **Node.js**, **Express
 - **Other**: dotenv, nodemon, cors
 ##
 **Run The server**
-npm run dev
+-npm run dev
 ##
 Open the Frontend
 Use Live Server or any local server to open index.html (don’t just double-click it!).
