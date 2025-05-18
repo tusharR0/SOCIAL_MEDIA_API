@@ -43,8 +43,11 @@ Create a dashboard after login
 Role-based access (admin, user)
 
 Deploy to Vercel/Render + ClearDB
+##
  Contact
+ ##
 Built with ❤️ by [Tushar Raut]
+##
 GitHub: @tusharR0
 
 
